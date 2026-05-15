@@ -216,4 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-/Figures
+Figures/combined_violin_timeseries.png
+Figures/combined_violin_timeseries_lfmc.png
+Figures/combined_violin_timeseries_lma.png
+Figures/Density_LMA_Con.png
+Figures/DensityLMA_PSME.png
+Figures/LFMC_Con.png
+Figures/LFMC_PSME.png
